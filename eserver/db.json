@@ -1,0 +1,234 @@
+[
+    
+       
+            {
+                "id": 1,
+                "title": "iPhone 9",
+                "description": "An apple mobile which is nothing like apple",
+                "price": 549,
+                "discountPercentage": 12.96,
+                "rating": 4.69,
+                "stock": 94,
+                "brand": "Apple",
+                "category": "smartphones",
+                "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+                "images":  "https://www.91-img.com/gallery_images_uploads/1/2/123e88ce63f73bd9ba9b290ff1a69ac49e065bbb.jpg?tr=h-550,w-0,c-at_max"
+                    
+            },
+            {
+                "id": 2,
+                "title": "iPhone X",
+                "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+                "price": 899,
+                "discountPercentage": 17.94,
+                "rating": 4.44,
+                "stock": 34,
+                "brand": "Apple",
+                "category": "smartphones",
+                "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+                "images": 
+                    "https://i.dummyjson.com/data/products/2/1.jpg"
+                  
+                
+            },
+            {
+                "id": 3,
+                "title": "Samsung Universe 9",
+                "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+                "price": 1249,
+                "discountPercentage": 15.46,
+                "rating": 4.09,
+                "stock": 36,
+                "brand": "Samsung",
+                "category": "smartphones",
+                "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+                "images": 
+                    "https://i.dummyjson.com/data/products/3/1.jpg"
+                
+            },
+            {
+                "id": 4,
+                "title": "OPPOF19",
+                "description": "OPPO F19 is officially announced on April 2021.",
+                "price": 280,
+                "discountPercentage": 17.91,
+                "rating": 4.3,
+                "stock": 123,
+                "brand": "OPPO",
+                "category": "smartphones",
+                "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+                "images": 
+                    "https://i.dummyjson.com/data/products/4/1.jpg"
+                  
+            },
+            {
+                "id": 5,
+                "title": "Huawei P30",
+                "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+                "price": 499,
+                "discountPercentage": 10.58,
+                "rating": 4.09,
+                "stock": 32,
+                "brand": "Huawei",
+                "category": "smartphones",
+                "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+                "images": 
+                    "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTzPP9UgNTc21hiju_bsMd2itTRXY_zeANW-4LlaqypJ6leJb_6boLhtQFp4ZSmACy3qMrfU2vulmTP4W1Zm7NAYb1_pGR6-Za1v1GQxo2vuryt5nq_BP8pKA"
+                    
+            },
+            {
+                "id": 6,
+                "title": "MacBook Pro",
+                "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+                "price": 1749,
+                "discountPercentage": 11.02,
+                "rating": 4.57,
+                "stock": 83,
+                "brand": "APPle",
+                "category": "laptops",
+                "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
+                "images": 
+                    "https://i.dummyjson.com/data/products/6/1.png"
+                  
+            },
+            {
+                "id": 7,
+                "title": "Samsung Galaxy Book",
+                "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+                "price": 1499,
+                "discountPercentage": 4.15,
+                "rating": 4.25,
+                "stock": 50,
+                "brand": "Samsung",
+                "category": "laptops",
+                "thumbnail": "https://i.dummyjson.com/data/products/7/thumbnail.jpg",
+                "images": 
+                    "https://i.dummyjson.com/data/products/7/1.jpg"
+                  
+            },
+            {
+                "id": 8,
+                "title": "Microsoft Surface Laptop 4",
+                "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+                "price": 1499,
+                "discountPercentage": 10.23,
+                "rating": 4.43,
+                "stock": 68,
+                "brand": "Microsoft Surface",
+                "category": "laptops",
+                "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
+                "images": 
+                    "https://i.dummyjson.com/data/products/8/1.jpg"
+            }, 
+            {
+                "id": 9,
+                "title": "Infinix INBOOK",
+                "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+                "price": 1099,
+                "discountPercentage": 11.83,
+                "rating": 4.54,
+                "stock": 96,
+                "brand": "Infinix",
+                "category": "laptops",
+                "thumbnail": "https://i.dummyjson.com/data/products/9/thumbnail.jpg",
+                "images": 
+                    "https://i.dummyjson.com/data/products/9/1.jpg"
+                   
+            },
+            {
+                "id": 10,
+                "title": "HP Pavilion 15-DK1056WM",
+                "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+                "price": 1099,
+                "discountPercentage": 6.18,
+                "rating": 4.43,
+                "stock": 89,
+                "brand": "HP Pavilion",
+                "category": "laptops",
+                "thumbnail": "https://i.dummyjson.com/data/products/10/thumbnail.jpeg",
+                "images": 
+                    "https://i.dummyjson.com/data/products/10/1.jpg"
+                   
+            },
+            {
+                "id": 11,
+                "title": "msi-gf63",
+                "description": "MSI GF63 Thin Core i5 9th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650 Max-Q)",
+                "price": 13,
+                "discountPercentage": 8.4,
+                "rating": 4.26,
+                "stock": 65,
+                "brand": "msi Laptop",
+                "category": "laptops",
+                "thumbnail": "https://i.dummyjson.com/data/products/11/thumbnail.jpg",
+                "images": 
+                    "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS7mDA0ZkOTiXU1cDdZ4APSIpzbyvW7MC818-khX-jeY8yrgraT3GgsyVE05e2iwwEcHxvm-v_RNrUowf_NkYn3nzVVFS-t6M70fJ1ls5I&usqp=CAc"
+                    
+            },
+            {
+                "id": 12,
+                "title": "samsung S22",
+                "description": "SAMSUNG Galaxy S22 5G (Phantom Black, 128 GB)  (8 GB RAM)",
+                "price": 40,
+                "discountPercentage": 15.66,
+                "rating": 4,
+                "stock": 52,
+                "brand": "Samsung",
+                "category": "mobile phone",
+                "thumbnail": "https://i.dummyjson.com/data/products/12/thumbnail.jpg",
+                "images": 
+                    "https://m.media-amazon.com/images/I/71wGLBDEsvL._SX679_.jpg"
+                   
+                    
+                
+            },
+            {
+                "id": 13,
+                "title": "infinix hot 11s",
+                "description": "Infinix Note 11s Free Fire Edition 128 GB (Haze Green, 8 GB RAM)",
+                "price": 13,
+                "discountPercentage": 8.14,
+                "rating": 4.59,
+                "stock": 61,
+                "brand": "Infinix",
+                "category": "mobile phone",
+                "thumbnail": "https://i.dummyjson.com/data/products/13/thumbnail.webp",
+                "images": 
+                    "https://www.greentelcom.ph/storage/2021/11/Infinix-Hot-11s-Polar-Black.jpg"
+                   
+            },
+            {
+                "id": 14,
+                "title": "asus rog",
+                "description": "Asus ROG Strix G15 G513IC-HN023WS AMD Ryzen 7 4800H 15.6 Inches Gaming Laptop",
+                "price": 120,
+                "discountPercentage": 15.6,
+                "rating": 4.21,
+                "stock": 114,
+                "brand": "asus",
+                "category": "laptops",
+                "thumbnail": "https://i.dummyjson.com/data/products/14/thumbnail.jpg",
+                "images": 
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk5WHIQ_aZBJCTQ7KtoQnpV0EkFKhVvI4xc5CmW6viPa_dLgVD3ciZ-KUVhSenuDTi9zI&usqp=CAU"
+                   
+            },
+            {
+                "id": 15,
+                "title": "lenovo ideapad 5",
+                "description": "Lenovo Ideapad 5 82FG00BPIN Laptop (11th Gen Intel Core i5/8GB RAM/1TB+256GB SSD /15.6 Inch Full HD IPS/Windows 10+MSO/Graphite Grey)",
+                "price": 100,
+                "discountPercentage": 10.99,
+                "rating": 4.7,
+                "stock": 105,
+                "brand": "lenovo",
+                "category": "laptops",
+                "thumbnail": "https://i.dummyjson.com/data/products/15/thumbnail.jpg",
+                "images": 
+                    "https://www.lenovo.com/medias/IP-Slim-5-Gen-7-14-AMD-1.jpg?context=bWFzdGVyfGltYWdlc3w1MDQ5OXxpbWFnZS9qcGVnfGltYWdlcy9oZWQvaGU1LzE2MjY2MjE3NjUyMjU0LmpwZ3wxYzdjYzVhMzVjNDIxNDZjZGRhNjBlYTQ2MjM1ODcxZTk1MDliY2EwMWU1OTdiNGM5YTNlZjBmOTRmNzYxYzU1"
+                 
+                
+            }
+          
+        
+    
+]

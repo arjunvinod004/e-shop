@@ -1,0 +1,74 @@
+
+<!-- Section: Design Block -->
+<section class="background-radial-gradient overflow-hidden">
+  <style>
+    .background-radial-gradient{
+      background-color: rgb(189, 148, 228);
+    }
+  </style>
+  <div class="p5">
+    <!-- Jumbotron  -->
+     <div class="px-4 py-5 px-md-5 text-center text-lg-start" style="background-color: hsl(0, 0%, 96%)">
+      <div class="container">
+        <div class="row gx-lg-5 align-items-center">
+          <div class="col-lg-6 mb-5 mb-lg-0">
+            <h1 class="my-5 display-3 fw-bold ls-tight">
+            <img style="width: 250px;" src="https://t3.ftcdn.net/jpg/00/73/84/06/240_F_73840681_s6QJs269L4vznkRTf4o5OM0eRRqIxiBg.jpg" alt=""> <br />
+              <span class="text-success">for your E SHOP</span>
+            </h1>
+            <!-- <p style="color: hsl(217, 10%, 50.8%)">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              Eveniet, itaque accusantium odio, soluta, corrupti aliquam
+              quibusdam tempora at cupiditate quis eum maiores libero
+              veritatis? Dicta facilis sint aliquid ipsum atque?
+            </p> -->
+          </div> 
+  
+          <div class="col-lg-6 mb-5 mb-lg-0">
+            <div class="card">
+              <div class="card-body py-5 px-md-5">
+                
+                  <!-- username input -->
+                  <form [formGroup]="registerform" action="">
+                  <div class="form-outline mb-4">
+                    <input formControlName="uname" type="text" id="reg_uname" placeholder="username" name="userName" class="form-control">
+                    <label class="form-label" for="form3Example3">username</label>
+                  </div>
+  
+                  <!-- Password input -->
+                  <div class="form-outline mb-4">
+                    <input formControlName="pswd" type="password" id="reg_pswd" class="form-control" placeholder="password" name="pswd">
+                    <label class="form-label" for="form3Example4">Password</label>
+                  </div>
+                   <!-- Password input -->
+                   <div class="form-outline mb-4">
+                    <input formControlName="mobilenum" type="mobilenumber" id="mobile_num" placeholder="mobilenumber" class="form-control" name="mob"/>
+                    <label class="form-label" for="form3Example4">mobile number</label>
+                  </div>
+  
+               
+              
+  
+                  <!-- Submit button -->
+                  <button (click)="register()" style="align-items: center; justify-content: center;" type="submit" class="btn btn-primary btn-block mb-4 ">
+                    register
+                  </button>
+                </form>
+
+                  <div class="text-center fs-5 mt-3">
+                    <!-- <a href="#">Forget password?</a> or -->
+                     <a routerLink="../login">Sign in</a>
+                </div>
+                 
+                 
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Jumbotron -->
+  </div>
+  </section>
+
+  <!-- Section: Design Block -->

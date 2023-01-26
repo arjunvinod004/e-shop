@@ -1,0 +1,47 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;1,100;1,300;1,400;1,700;1,900&family=Open+Sans:wght@300;500&family=Oswald:wght@300;400&family=Poppins:ital,wght@0,600;1,100;1,300&display=swap');
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: url('https://www.fonewalls.com/wp-content/uploads/2019/09/Black-Amoled-Wallpaper-HD-142-300x585.jpg');
+    background-size: cover;
+}
+ .text:hover{
+       scale: 1.55;
+       transform: scale(1.55);
+       transition: 0.7s;
+}
+.card-img-top{
+    width: 200px;
+   
+}
+.card-img-top:hover{
+    /* scale: 1.25; */
+       transform: scale(1.15);
+       transition: 0.4s;
+}
+.navbar{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1;
+
+
+}
+.p1{
+    margin-top: 100px;
+}
+.p2{
+    margin-top: 120px;
+}
+.p3{
+    margin-top: 100px;
+}
+.p5{
+    margin-top: 100px;
+}
+.p4{
+    margin-top: 110px;
+}
+h3,h5,p{
+    color: aliceblue;
+}
